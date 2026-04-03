@@ -1,8 +1,6 @@
 # app/core/simulation.py
 """
 SIMULATION STATE MANAGER
-FIX: epoch is now timezone-naive throughout; burn time comparisons fixed.
-FIX: CDMWarning constructor had a stray re-assignment of deb_id.
 """
 
 import numpy as np
