@@ -1,8 +1,6 @@
 # app/core/physics.py
 """
 PHYSICS ENGINE — Orbital Mechanics Core
-All maths matches the problem statement exactly.
-FIX: removed duplicate FastAPI app definitions that were pasted at end of file.
 """
 
 import numpy as np
